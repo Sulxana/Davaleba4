@@ -23,6 +23,7 @@ else:
             break
         left+=1
         right-=1
+
     if can:
         print("".join(mylist))
 
